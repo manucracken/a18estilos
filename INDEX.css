@@ -1,0 +1,20 @@
+body{
+background-color:lightblue;
+}
+
+h1{
+color:white;
+text-align:center;
+}
+
+p{
+font-family:verdana;
+font-size:20px;
+color:green;
+background-color:silver;
+border:2px solid gray;
+}
+
+ul{
+list-style-type:square;
+}
